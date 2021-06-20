@@ -8,6 +8,10 @@
 - PHP 7.x
 - To use serve.bat, you must have PHP environment set.
 
+## Tutorial and Documentation
+- [bramus/router](https://github.com/bramus/router) for Routing
+- [jenssegers/blade](https://github.com/jenssegers/blade) for View Blade Templating Engine or just learn Blade Templating Engine at Laravel Documentation
+
 ## Installation
 \> composer install
 
@@ -19,7 +23,7 @@
 2.  Delete public directory.
 
 ## Non-root Domain Directory Deployment
-> Modify ROOT variable at .env file, don't add "/" / trailing slashes at the end.
+> Modify ROOT variable at .env file, don't add "/" or trailing slashes at the end.
 
 ## Production Deployment
 > Modify PRODUCTION variable at .env file, set to TRUE.
