@@ -1,5 +1,6 @@
 # PHP with View and Router Boilerplate
 ## Information
+- Simple and lightweight to use
 - View and router only
 - Using Laravel Blade Templating Engine
 
