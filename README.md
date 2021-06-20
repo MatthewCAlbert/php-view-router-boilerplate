@@ -6,7 +6,7 @@
 ## Prerequisite
 - Composer
 - PHP 7.x
-- Make sure to have "cache" folder in project root folder otherwise it'll throw error.
+- To use serve.bat, you must have PHP environment set.
 
 ## Installation
 \> composer install
